@@ -1,5 +1,5 @@
 # EuroPython-2018
-This repository contains starter code for building a question-answering system over SQuAD. 
+This repository contains starter code for building a question-answering system over SQuAD. <br>
 Link to slides: https://goo.gl/rLwjhA <br>
 **Feedback form** : https://goo.gl/forms/4Cg4p3AqVlP17Lon2 
 
