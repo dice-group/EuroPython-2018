@@ -1,6 +1,6 @@
 # EuroPython-2018
 This repository contains starter code for building a question-answering system over SQuAD. 
-Link to slides: https://goo.gl/rLwjhA 
+Link to slides: https://goo.gl/rLwjhA <br>
 **Feedback form** : https://goo.gl/forms/4Cg4p3AqVlP17Lon2 
 
 **Stanford Question Answering Dataset (SQuAD)** is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.
