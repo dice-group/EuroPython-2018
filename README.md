@@ -6,7 +6,7 @@ Link to slides: https://goo.gl/rLwjhA <br>
 **Stanford Question Answering Dataset (SQuAD)** is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.
 Follow [the link](https://rajpurkar.github.io/SQuAD-explorer/) 
 
-The approach is inspired by [DRQA](https://arxiv.org/abs/1704.00051) and [FastQA](https://arxiv.org/abs/1703.04816).
+The implementation approach is inspired by [DRQA](https://arxiv.org/abs/1704.00051) and [FastQA](https://arxiv.org/abs/1703.04816).
 [Here](https://web.stanford.edu/class/cs224n/reports/2761899.pdf) is yet another simple and interesting approach to get started.
 
 ### Pre-requisites for running the notebook
